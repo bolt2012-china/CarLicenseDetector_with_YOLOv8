@@ -1,0 +1,11 @@
+# 数据集根目录 (指向包含 images 和 labels 的文件夹)
+path: #这个需要根据自己的路径填写
+
+# 训练集、验证集、测试集路径 (相对于path)
+train: images/train
+val: images/val
+test: images/test  # 可选，用于最终评估
+
+# 类别名称
+names:
+  0: license_plate

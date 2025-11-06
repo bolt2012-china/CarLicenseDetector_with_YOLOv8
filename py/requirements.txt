@@ -1,0 +1,32 @@
+# ============ 计算机视觉 ============
+opencv-python>=4.5.0
+opencv-python-headless>=4.5.0
+
+# ============ 数值计算 ============
+numpy>=1.19.0
+scipy>=1.5.0
+
+# ============ 可视化 ============
+matplotlib>=3.3.0
+pillow>=8.0.0
+
+# ============ 工具库 ============
+tqdm>=4.50.0
+pyyaml>=5.3.0
+
+# ============ PaddleOCR依赖 (部分可能已随paddleocr安装) ============
+shapely>=1.7.0
+pyclipper>=1.2.0
+lmdb>=1.0.0
+premailer>=3.8.0
+openpyxl>=3.0.0
+attrdict>=2.0.1
+Cython>=0.29.0
+scikit-image>=0.17.0
+imgaug>=0.4.0
+lxml>=4.6.0
+beautifulsoup4>=4.9.0
+
+# ============ 其他工具 ============
+psutil>=5.7.0
+requests>=2.25.0
